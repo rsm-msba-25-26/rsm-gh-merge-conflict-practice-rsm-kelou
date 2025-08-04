@@ -29,10 +29,10 @@ After `cloning` the assignment you should make two commits:
 
 ---
 
-Your name: <insert-your-name-here> Date: <insert-the-date-here>
+Your name: `<insert-your-name-here>` Date: `<2025-08-03>`
 
 ---
 
-If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
+If you have any problems with this practice assignment, take screenshots and post them to [https://piazza.com/ucsd/summer2025/rady499](https://piazza.com/ucsd/summer2025/rady499).
 
 > Note: You can copy-and-paste images directly into Piazza rather than having to upload an image file. This will make your post quicker and easier to review
